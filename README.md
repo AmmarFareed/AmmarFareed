@@ -30,7 +30,7 @@ Here are some projects I’ve worked on:
   Developed an e-commerce platform concept focused on gaming peripherals and accessories, designed to deliver a user-friendly shopping experience for gaming-related products.  
   *Focused on e-commerce structure, usability, and digital retail experience.*
 
-- **DigiID – Digital Identity Solution**  
+- **Digi-ID – Digital Identity Solution**  
   Worked on a digital identity project aimed at providing a modern and secure approach to user identification and information management.  
   *Focused on system planning, secure digital workflows, and user-centric design.*
 

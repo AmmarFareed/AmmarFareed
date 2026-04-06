@@ -26,15 +26,23 @@
 ## 📌 Featured Projects
 Here are some projects I’ve worked on:
 
-- **Kodak Quiz Platform**  
-  A quiz-based learning platform proposal designed to help university students learn and compete through knowledge.  
-  *Focused on project planning, system design, and Agile methodology.*
+- **Level Up⚡︎ – Gaming Peripherals E-Commerce Platform**  
+  Developed an e-commerce platform concept focused on gaming peripherals and accessories, designed to deliver a user-friendly shopping experience for gaming-related products.  
+  *Focused on e-commerce structure, usability, and digital retail experience.*
 
-- **Student BMI Calculator (C++)**  
-  A C++ program that calculates BMI for multiple students using functions, categories, and min/max analysis.
+- **DigiID – Digital Identity Solution**  
+  Worked on a digital identity project aimed at providing a modern and secure approach to user identification and information management.  
+  *Focused on system planning, secure digital workflows, and user-centric design.*
+
+- **Kodak Quiz Platform**  
+  Designed a quiz-based learning platform concept to help university students learn, compete, and engage through knowledge-based challenges.  
+  *Focused on system analysis, project planning, and Agile methodology.*
+- **Hospital Patient Management System**  
+  Built a Java-based hospital management application that streamlines patient handling by automatically assigning doctors based on patient condition, doctor availability, and treatment needs.  
+  *Implemented using Java in IntelliJ IDEA, focusing on workflow automation, efficient resource allocation, and structured application design.*
 
 - **Structured Cabling & Network Design Project**  
-  Designed floor plans and a complete structured cabling layout for a six-story university building.
+  Created floor plans and a complete structured cabling layout for a six-story university building as part of a networking and infrastructure design project.
 
 ---
 

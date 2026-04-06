@@ -55,8 +55,8 @@ Here are some projects I’ve worked on:
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Here](https://www.linkedin.com/)
-- **Email:** your.email@example.com
+- **LinkedIn:** www.linkedin.com/in/ammar-fareed
+- **Email:** fareedammar88@gmail.com
 
 ---
 

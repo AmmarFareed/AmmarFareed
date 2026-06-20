@@ -60,4 +60,4 @@ Here are some projects I’ve worked on:
 
 ---
 
-⭐ *Thanks for visiting my profile! I'm continuously learning, building, and growing as a developer.*
+⭐ *Thanks for visiting my profile! I'm continuously learning, building, and growing.*

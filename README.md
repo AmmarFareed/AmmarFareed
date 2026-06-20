@@ -1,25 +1,25 @@
 # Hi there, I'm Ammar 👋
 
-💻 Passionate IT student with a strong interest in **software development, web technologies, and problem solving**.  
+💻 Passionate IT student with a strong interest in **Business Analysis,Data Analysis and problem solving**.  
 🚀 Currently building my skills through **academic projects, coding practice, and hands-on development**.  
-🌱 Always learning and improving in areas like **Java, C++, web development, databases, and networking**.  
+🌱 Always learning and improving in areas like **Analysis,Python,Java, databases, and networking**.  
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 IT / Computing student
-- 💡 Interested in **Software Development, Web Development, and IT Solutions**
-- 🔧 Working with **Java, C++, HTML, CSS, JavaScript, and SQL**
+- 💡 Interested in **Data Analysis, Business Analysis, and IT Solutions**
+- 🔧 Working with **Python,Java, R, JavaScript, and MySQL**
 - 📚 Currently improving my skills in **System Analysis & Design, Networking, and Real-World Projects**
 - 🤝 Strong in **team collaboration, communication, and problem solving**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, C++, JavaScript, SQL
+- **Languages:** Python,R,Java, C++, JavaScript, SQL
 - **Web:** HTML, CSS
-- **Concepts:** OOP, System Analysis & Design, Database Fundamentals, Networking Basics
-- **Tools:** Git, GitHub, VS Code, NetBeans / IntelliJ (if applicable)
+- **Concepts:** OOP, System Analysis & Design, Database Fundamentals, Networking Basics,Data Structures and Algortihms
+- **Tools:** Git, GitHub, VS Code, NetBeans / IntelliJ 
 
 ---
 

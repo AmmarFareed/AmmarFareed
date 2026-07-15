@@ -1,63 +1,120 @@
-# Hi there, I'm Ammar 👋
+<div align="center">
 
-💻 Passionate IT student with a strong interest in **Business Analysis,Data Analysis and problem solving**.  
-🚀 Currently building my skills through **academic projects, coding practice, and hands-on development**.  
-🌱 Always learning and improving in areas like **Analysis,Python,Java, databases, and networking**.  
+```
+▄▀█ █▀▄▀█ █▀▄▀█ ▄▀█ █▀█   █▀▀ ▄▀█ █▀█ █▀▀ █▀▀ █▀▄
+█▀█ █░▀░█ █░▀░█ █▀█ █▀▄   █▀░ █▀█ █▀▄ █▀░ █▀░ █░█
+▀░▀ ▀░░░▀ ▀░░░▀ ▀░▀ ▀░▀   █░░ ▀░▀ ▀░▀ ▀▀▀ ▀▀▀ ▀▀░
+```
 
----
+</div>
 
-## 👨‍💻 About Me
-- 🎓 IT / Computing student
-- 💡 Interested in **Data Analysis, Business Analysis, and IT Solutions**
-- 🔧 Working with **Python,Java, R, JavaScript, and MySQL**
-- 📚 Currently improving my skills in **System Analysis & Design, Networking, and Real-World Projects**
-- 🤝 Strong in **team collaboration, communication, and problem solving**
+<table>
+<tr>
+<td width="260" align="center" valign="top">
 
----
+<br>
 
-## 🛠️ Tech Stack
-- **Languages:** Python,R,Java, C++, JavaScript, SQL
-- **Web:** HTML, CSS
-- **Concepts:** OOP, System Analysis & Design, Database Fundamentals, Networking Basics,Data Structures and Algortihms
-- **Tools:** Git, GitHub, VS Code, NetBeans / IntelliJ 
+```
+       . . . . . . . .
+     .               .
+    .   ✧(≖ ◡ ≖)✧    .
+     .               .
+       . . . . . . . .
+          ▓▓▓▓▓▓▓
+        ▓▓▓▓▓▓▓▓▓▓▓
+       ▓▓▓░░░░░░░▓▓▓
+      ▓▓░░░░░░░░░░░▓▓
+      ▓▓░░░░░░░░░░░▓▓
+       ▓▓▓░░░░░░░▓▓▓
+        ▓▓▓▓▓▓▓▓▓▓▓
+      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+**Ammar Fareed**
+`ammar-fareed`
+
+IT Undergraduate at SLIIT City
+University — interested in AI,
+Data Analysis, and Software
+Engineering
+
+</td>
+<td valign="top">
+
+```
+ammar@fareed:~$ neofetch
+
+ammar-fareed@github
+--------------------
+OS: ..................... Sri Lanka, Dehiwala
+Uptime: ................. HDIT @ SLIIT City (2024 - 2026)
+Host: ................... Royal College, Colombo (Alumnus)
+Kernel: ................. IT Undergraduate
+Shell: .................. Business Analysis / Data Analysis
+
+Languages: .............. Python, Java, R, JavaScript, SQL
+Frameworks: ............. React, Node.js/Express, MongoDB
+Tools: .................. Git, GitHub, VS Code, IntelliJ
+Concepts: ............... OOP, DBMS, Networking, DSA
+Interests: .............. AI/ML, Data Storytelling, Cloud
+
+- Contact ---------------
+Email: .................. fareedammar88@gmail.com
+LinkedIn: ............... ammar-fareed
+GitHub: ................. AmmarFareed
+Portfolio: .............. ammarfareed.vercel.app
+
+- Certifications --------
+GitHub Foundations: ..... 2026
+Python for Beginners: ... University of Moratuwa
+McKinsey Forward: ....... Completed
+
+- GitHub Stats ----------
+Repos: ......... browsing my pinned projects below ↓
+Status: ........ open to internships & collab
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
-Here are some projects I’ve worked on:
 
-- **Level Up⚡︎ – Gaming Peripherals E-Commerce Platform**  
-  Developed an e-commerce platform concept focused on gaming peripherals and accessories, designed to deliver a user-friendly shopping experience for gaming-related products.  
-  *Focused on e-commerce structure, usability, and digital retail experience.*
+- **Level Up⚡︎ – Gaming Peripherals E-Commerce Platform**
+  Full-stack e-commerce/POS concept with a normalized database, built for a smooth gaming-retail shopping experience.
 
-- **Digi-ID – Digital Identity Solution**  
-  Worked on a digital identity project aimed at providing a modern and secure approach to user identification and information management.  
-  *Focused on system planning, secure digital workflows, and user-centric design.*
+- **PriceShift – USD/LKR Inflation Calculator**
+  React/Vite + Recharts app using BLS CPI-U and IMF/World Bank LKR data, deployed on Vercel with GitHub Actions CI/CD.
 
-- **Kodak Quiz Platform**  
-  Designed a quiz-based learning platform concept to help university students learn, compete, and engage through knowledge-based challenges.  
-  *Focused on system analysis, project planning, and Agile methodology.*
-- **Hospital Patient Management System**  
-  Built a Java-based hospital management application that streamlines patient handling by automatically assigning doctors based on patient condition, doctor availability, and treatment needs.  
-  *Implemented using Java in IntelliJ IDEA, focusing on workflow automation, efficient resource allocation, and structured application design.*
+- **Airbnb London Market Analysis**
+  Python/pandas/SciPy analytical report with statistical hypothesis testing, decision log, and reflection sections.
 
-- **Structured Cabling & Network Design Project**  
-  Created floor plans and a complete structured cabling layout for a six-story university building as part of a networking and infrastructure design project.
+- **Hospital Patient Management System**
+  Java/OOP application that auto-assigns doctors based on patient condition, availability, and treatment needs.
+
+- **DigitalID Nexus**
+  Node.js/Express REST API for secure digital identity workflows, built as part of a team project.
+
+- **NSCA Enterprise Network (Cisco Packet Tracer)**
+  Multi-site network across six Sri Lankan cities using VLSM subnetting, OSPF/EIGRP/BGP, HSRP, ACLs, and DHCP.
 
 ---
 
 ## 🎯 Current Goals
-- Build more real-world software projects
-- Strengthen full-stack development skills
-- Improve problem-solving and coding consistency
-- Gain internship experience in the IT industry
+- Land an internship in software engineering, business analysis, or data analytics
+- Deepen full-stack and cloud/DevOps skills
+- Keep shipping real, portfolio-worthy projects
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/ammar-fareed
-- **Email:** fareedammar88@gmail.com
+<div align="center">
 
----
+📫 **fareedammar88@gmail.com** · 🔗 [linkedin.com/in/ammar-fareed](https://www.linkedin.com/in/ammar-fareed) · 🌐 [ammarfareed.vercel.app](https://ammarfareed.vercel.app)
 
-⭐ *Thanks for visiting my profile! I'm continuously learning, building, and growing.*
+⭐ *Thanks for stopping by — always building, always learning.*
+
+</div>

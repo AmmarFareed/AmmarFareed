@@ -93,7 +93,7 @@ Complete structured cabling and network infrastructure design for a six-floor un
 - 📊 Improve Business & Data Analytics skills
 - 🌐 Learn modern full-stack development
 - ☁️ Explore Cloud Computing
-- 💼 Secure an IT internship
+- 💼 Secure an IT internship✅
 
 ---
 

@@ -75,7 +75,6 @@ Full Stack Development • Student Mentorship • System Design • Software Eng
 
 # 📈 Currently Learning
 
-- Full Stack Development (React, Node.js, Express, PostgreSQL)
 - AI Software Engineering
 - Advanced Java
 - System Design

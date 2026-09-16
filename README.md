@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ammar Fareed
 
-### Student Success Instructor @ Metana • IT Student • Full Stack Developer
+### Student Success Instructor **@Metana-Inc** • IT Student • Full Stack Developer
 
 💻 Turning ideas into practical software solutions
 📚 Mentoring students in Software Engineering & reviewing their submissions
